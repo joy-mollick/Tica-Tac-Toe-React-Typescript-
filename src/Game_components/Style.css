@@ -1,0 +1,135 @@
+
+
+
+.ball {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    align-items: center;
+    border: 5px ; 
+    display:center;
+  }
+
+  .out
+  {
+    display:grid;
+    align-items: center;
+    margin: 160px
+  }
+
+  .round
+  {
+    background-color:blue;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    align-items: center;
+    border: 5px ; 
+    display:center;
+  }
+
+  .roundd
+  {
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    align-items: center;
+    border: 5px ; 
+    display:center;
+  }
+
+  .but {
+    background-color:darkblue;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    border-radius: 1px
+  }
+
+  .but:hover {
+    background-color:blueviolet;
+    
+  }
+
+  .but:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  .res {
+    background-color:#666; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration-color: yellowgreen;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+
+  .card
+{
+   background: #ffda77;
+   box-shadow: 2px 4px 4px gray;
+   border-radius:5px;
+   margin:10px;
+   padding:10px;
+   width:390px;
+   display:inline-block
+}
+
+.card
+{
+   background: #ffda77;
+   box-shadow: 2px 4px 4px gray;
+   border-radius:5px;
+   margin:10px;
+   padding:10px;
+   width:390px;
+   display:inline-block
+}
+
+.headingStyle
+{
+  background-color: blue;
+  display:inline-table;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 10px
+}
